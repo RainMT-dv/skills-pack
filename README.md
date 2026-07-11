@@ -1,7 +1,7 @@
 <div align="center">
 
   # skills-pack
-  *Uma coleção de skills prontas para Claude e Kiro*
+  *Uma coleção de skills prontas para Claude Code, Kiro Code, VSCode,* **Qualquer lugar que aceite skills**
 
   [![Licença](https://img.shields.io/badge/licença-MIT-blue?style=flat-square)](LICENSE)
   [![Skills](https://img.shields.io/badge/skills-23-green?style=flat-square)](#skills)
